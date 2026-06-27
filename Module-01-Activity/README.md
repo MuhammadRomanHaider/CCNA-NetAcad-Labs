@@ -16,4 +16,4 @@ This repository contains my practical lab exercises and network topologies compl
 
 ### Lab Status
 * **Completion Score:** 100% Successfully Completed
-* **Lab Source File:** [Download `.pka` File](./1.0.5-packet-tracer---logical-and-physical-mode-exploration.pka)
+* **Lab Source File:** [Download `.pka` File](./1.0.5-packet-tracer---logical-and-physical-mode-exploration..pka)
