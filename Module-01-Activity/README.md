@@ -12,8 +12,8 @@ This repository contains my practical lab exercises and network topologies compl
 * Installed a backup router into the rack and configured a basic device hostname.
 
 ### Topology Preview
-![Cisco Packet Tracer Physical Mode Workspace](lab_workspace.png)
+![Cisco Packet Tracer Physical Mode Workspace](Lab_workspace.png.png)
 
 ### Lab Status
 * **Completion Score:** 100% Successfully Completed
-* **Lab Source File:** [Download `.pka` File](./1.0.5-packet-tracer-logical-and-physical-mode-exploration.pka)
+* **Lab Source File:** [Download `.pka` File](./1.0.5-packet-tracer---logical-and-physical-mode-exploration.pka)
