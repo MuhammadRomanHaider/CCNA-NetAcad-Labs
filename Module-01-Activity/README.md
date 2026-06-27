@@ -12,7 +12,7 @@ This repository contains my practical lab exercises and network topologies compl
 * Installed a backup router into the rack and configured a basic device hostname.
 
 ### Topology Preview
-![Cisco Packet Tracer Physical Mode Workspace](Lab_workspace.png (2).png)
+![Cisco Packet Tracer Physical Mode Workspace](Lab_workspace.png(2).png)
 
 ### Lab Status
 * **Completion Score:** 100% Successfully Completed
